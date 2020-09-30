@@ -4,9 +4,6 @@ DVTV.cz video plugin. Available videos are parsed from `https://video.aktualne.c
 
 # Installation
 
-## From kodi-czsk repository
-Plugin is available in kodi-czsk repository, to install follow instructions in `http://kodi-czsk.github.io/repository/`.
-
 ## From zip file
 Plugin can be installed manually from zip file:
 
